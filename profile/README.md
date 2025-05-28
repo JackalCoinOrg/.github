@@ -3,8 +3,6 @@
 Jackal Coin ($JACKAL) is a decentralized utility token built on the Binance Smart Chain (BEP-20).  
 Powering the Jackal Terminal ecosystem with a privacy-first approach, secure tokenomics, and long-term scalability.
 
----
-
 ## Official Repositories
 
 - **Smart Contract:** [jackal-token-contract](https://github.com/JackalCoinOrg/jackal-token-contract)
@@ -13,8 +11,6 @@ Powering the Jackal Terminal ecosystem with a privacy-first approach, secure tok
 - **Whitepaper:** [jackal-whitepaper](https://github.com/JackalCoinOrg/jackal-whitepaper)
 - **Public API Docs:** [jackal-api-docs](https://github.com/JackalCoinOrg/jackal-api-docs)
 
----
-
 ## Official Links
 
 - Website: [https://jackalcoin.org](https://jackalcoin.org) 
@@ -22,8 +18,6 @@ Powering the Jackal Terminal ecosystem with a privacy-first approach, secure tok
 - BscScan: [https://bscscan.com/token/0x0509e161FDaF6Ad976E15992B615f4D3453540d1](https://bscscan.com/token/0x0509e161FDaF6Ad976E15992B615f4D3453540d1) 
 - API: [https://jackalcoin.org/docs](https://jackalcoin.org/docs)
 - Media CDN: [https://cdn.jackalcoin.org](https://cdn.jackalcoin.org) 
-
----
 
 ## Social & Community
 
@@ -37,17 +31,11 @@ Powering the Jackal Terminal ecosystem with a privacy-first approach, secure tok
 - YouTube: [https://www.youtube.com/@JackalCoinOrg](https://www.youtube.com/@JackalCoinOrg)
 - TikTok: [https://www.tiktok.com/@JackalCoinOrg](https://www.tiktok.com/@JackalCoinOrg)
 
----
-
 ## Contact
  
 **Email:** [info@jackalcoin.org](mailto:info@jackalcoin.org)
-
----
 
 ## Disclaimer
 
 All repositories in this organization are part of the official Jackal Coin ecosystem.  
 Unauthorized use, modifications, or deployments are not supported.
-
----
