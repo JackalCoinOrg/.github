@@ -6,7 +6,7 @@ Powering the Jackal Terminal ecosystem with a privacy-first approach, secure tok
 ## Official Repositories
 
 - **Smart Contract:** [jackal-token](https://github.com/JackalCoinOrg/jackal-token)
-- **Media Kit:** [jackal-media-library](https://github.com/JackalCoinOrg/jackal-media-library) 
+- **Media Library:** [jackal-media-library](https://github.com/JackalCoinOrg/jackal-media-library) 
 - **Assets for CEX/DEX:** [jackal-assets](https://github.com/JackalCoinOrg/jackal-assets)
 - **Whitepaper:** [jackal-whitepaper](https://github.com/JackalCoinOrg/jackal-whitepaper)
 - **Public API Docs:** [jackal-api-docs](https://github.com/JackalCoinOrg/jackal-api-docs)
