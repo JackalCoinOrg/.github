@@ -5,19 +5,19 @@ Powering the Jackal Terminal ecosystem with a privacy-first approach, secure tok
 
 ## Official Repositories
 
-- **Smart Contract:** [jackal-token-contract](https://github.com/JackalCoinOrg/jackal-token-contract)
-- **Media Kit:** [jackal-media-kit](https://github.com/JackalCoinOrg/jackal-media-kit)
+- **Smart Contract:** [jackal-token](https://github.com/JackalCoinOrg/jackal-token)
+- **Media Kit:** [jackal-media-library](https://github.com/JackalCoinOrg/jackal-media-library) 
 - **Assets for CEX/DEX:** [jackal-assets](https://github.com/JackalCoinOrg/jackal-assets)
 - **Whitepaper:** [jackal-whitepaper](https://github.com/JackalCoinOrg/jackal-whitepaper)
 - **Public API Docs:** [jackal-api-docs](https://github.com/JackalCoinOrg/jackal-api-docs)
 
 ## Official Links
 
-- Website: [https://jackalcoin.org](https://jackalcoin.org) 
-- Whitepaper: [https://jackalcoin.org/whitepaper](https://jackalcoin.org/whitepaper) 
-- BscScan: [https://bscscan.com/token/0x0509e161FDaF6Ad976E15992B615f4D3453540d1](https://bscscan.com/token/0x0509e161FDaF6Ad976E15992B615f4D3453540d1) 
-- API: [https://jackalcoin.org/docs](https://jackalcoin.org/docs)
-- Media CDN: [https://cdn.jackalcoin.org](https://cdn.jackalcoin.org) 
+- Website: [https://jackalcoin.org](https://jackalcoin.org)
+- Whitepaper: [https://jackalcoin.org/whitepaper](https://jackalcoin.org/whitepaper)
+- BscScan: [https://bscscan.com/token/0x0509e161FDaF6Ad976E15992B615f4D3453540d1](https://bscscan.com/token/0x0509e161FDaF6Ad976E15992B615f4D3453540d1)
+- API: [https://api.jackalcoin.org](https://jackalcoin.org/docs)
+- Media CDN: [https://cdn.jackalcoin.org](https://jackalcoin.org/docs)
 
 ## Social & Community
 
@@ -32,10 +32,9 @@ Powering the Jackal Terminal ecosystem with a privacy-first approach, secure tok
 - TikTok: [https://www.tiktok.com/@JackalCoinOrg](https://www.tiktok.com/@JackalCoinOrg)
 
 ## Contact
- 
+
 **Email:** [info@jackalcoin.org](mailto:info@jackalcoin.org)
 
 ## Disclaimer
 
-All repositories in this organization are part of the official Jackal Coin ecosystem.  
-Unauthorized use, modifications, or deployments are not supported.
+All repositories in this organization are part of the official Jackal Coin ecosystem. Unauthorized use, modifications, or deployments are not supported.
