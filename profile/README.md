@@ -26,8 +26,7 @@ Powering the Jackal Terminal ecosystem with a privacy-first approach, secure tok
 - Facebook: [https://www.facebook.com/JackalCoinOrg](https://www.facebook.com/JackalCoinOrg)
 - Telegram: [https://t.me/JackalCoinOrg](https://t.me/JackalCoinOrg)
 - WhatsApp: [https://whatsapp.com/channel/0029VazFjNd2ZjClwbH6vq1a](https://whatsapp.com/channel/0029VazFjNd2ZjClwbH6vq1a)
-- Discord: [https://discord.gg/VN5ZQxdy](https://discord.gg/VN5ZQxdy)
-- Reddit: [https://www.reddit.com/user/JackalCoinOrg](https://www.reddit.com/user/JackalCoinOrg)
+- Discord: [https://discord.gg/xQzfa7aMhF](https://discord.gg/xQzfa7aMhF)
 - YouTube: [https://www.youtube.com/@JackalCoinOrg](https://www.youtube.com/@JackalCoinOrg)
 - TikTok: [https://www.tiktok.com/@JackalCoinOrg](https://www.tiktok.com/@JackalCoinOrg)
 
