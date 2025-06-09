@@ -1,7 +1,6 @@
 # Jackal Coin Organization
 
-Jackal Coin ($JACKAL) is a decentralized utility token built on the Binance Smart Chain (BEP-20).  
-Powering the Jackal Terminal ecosystem with a privacy-first approach, secure tokenomics, and long-term scalability.
+Jackal Coin ($JACKAL) is a decentralized utility token built on the Binance Smart Chain (BEP-20), powering the development of the Jackal Terminal — a privacy-first hardware device with high yield, strong tokenomics, growth potential, and a bold long-term vision.
 
 ## Official Repositories
 
