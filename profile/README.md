@@ -2,6 +2,11 @@
 
 Jackal Coin ($JACKAL) is a decentralized utility token built on the Binance Smart Chain (BEP-20), powering the development of the Jackal Terminal — a privacy-first hardware device with high yield, strong tokenomics, growth potential, and a bold long-term vision.
 
+## Presale (Phase 1)
+
+**DxSale:** [https://www.dx.app/dxsale/view?address=0x6872efcfDFF6bb904a2fE24D3eb9B31BC8dacd66&chain=56](https://www.dx.app/dxsale/view?address=0x6872efcfDFF6bb904a2fE24D3eb9B31BC8dacd66&chain=56)
+
+
 ## Official Repositories
 
 - **Smart Contract:** [jackal-token](https://github.com/JackalCoinOrg/jackal-token)
@@ -33,10 +38,6 @@ Jackal Coin ($JACKAL) is a decentralized utility token built on the Binance Smar
 ## Contact
 
 **Email:** [info@jackalcoin.org](mailto:info@jackalcoin.org)
-
-## Presale (Phase 1)
-
-**DxSale:** [https://www.dx.app/dxsale/view?address=0x6872efcfDFF6bb904a2fE24D3eb9B31BC8dacd66&chain=56](https://www.dx.app/dxsale/view?address=0x6872efcfDFF6bb904a2fE24D3eb9B31BC8dacd66&chain=56)
 
 ## Disclaimer
 
