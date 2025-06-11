@@ -34,6 +34,10 @@ Jackal Coin ($JACKAL) is a decentralized utility token built on the Binance Smar
 
 **Email:** [info@jackalcoin.org](mailto:info@jackalcoin.org)
 
+## Presale (Phase 1)
+
+**DxSale:** [https://www.dx.app/dxsale/view?address=0x6872efcfDFF6bb904a2fE24D3eb9B31BC8dacd66&chain=56](https://www.dx.app/dxsale/view?address=0x6872efcfDFF6bb904a2fE24D3eb9B31BC8dacd66&chain=56)
+
 ## Disclaimer
 
 All repositories in this organization are part of the official Jackal Coin ecosystem. Unauthorized use, modifications, or deployments are not supported.
